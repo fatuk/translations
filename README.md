@@ -1,4 +1,6 @@
 translations
 ============
 
-My translation of some articles
+### Переводы статей:
+
+* [Развлечение с CSS счетчиками](css-counters)
